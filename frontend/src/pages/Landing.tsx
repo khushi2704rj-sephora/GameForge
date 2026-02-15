@@ -171,6 +171,7 @@ export default function Landing() {
                 <h2>Created By</h2>
                 <div className="team-grid">
                     <div className="team-member">Darshan Mehta</div>
+                    <div className="team-member">Pranav M Nair</div>
                 </div>
             </section>
 
