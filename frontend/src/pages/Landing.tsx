@@ -170,7 +170,7 @@ export default function Landing() {
             <section className="container team-section reveal">
                 <h2>Created By</h2>
                 <div className="team-grid">
-                    <div className="team-member">Khushi Kothari</div>
+                    <div className="team-member">Darshan Mehta</div>
                 </div>
             </section>
 
